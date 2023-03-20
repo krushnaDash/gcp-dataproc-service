@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/k0d03gd/project/code/krushna/bua-gcp-dp-service/project/scriptFile.scala:1:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0m"ch.qos.logback"            % "logback-classic" % "1.4.5"[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
